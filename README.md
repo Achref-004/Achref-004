@@ -323,6 +323,7 @@ A mobile contact management application built with Flutter and FastAPI, allowing
 
 My personal portfolio website showcasing my background, projects, technical skills and experience.
 
+<img src="Portfolio capture.png" width="100%" alt="Achref bejaoui's portfolio">
 ### Technologies
 
 `React` `JavaScript` `CSS` `Vercel`
