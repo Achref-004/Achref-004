@@ -18,7 +18,7 @@
 <a href="mailto:bejaouia464@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://achref-portfolioo.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a>
+<a href="https://achreef.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a>
 <br><br>
 
 **I am currently seeking opportunities where I can apply my technical skills, continue growing as a data professional, and collaborate with talented teams on challenging and impactful projects**
@@ -404,7 +404,7 @@ I am currently seeking opportunities where I can apply my technical skills
   <a href="mailto:bejaouia464@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-  <a href="https://achref-portfolioo.vercel.app/">
+  <a href="https://achreef.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 
