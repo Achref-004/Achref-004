@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1500&color=555934&center=true&vCenter=true&width=600&lines=Achref+Bejaoui" alt="Achref Bejaoui"/>
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=5000&pause=1500&color=555934&center=true&vCenter=true&width=600&lines=Achref+Bejaoui" alt="Achref Bejaoui"/>
 
 ### M.Sc. student in Data Science & Decision Systems
 **Business Intelligence · Data Analytics · Machine Learning · Data Engineering · AI Applications · Full-Stack Development**
