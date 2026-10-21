@@ -38,7 +38,7 @@ My academic and project experience combines **Business Intelligence, Data Analyt
 I particularly enjoy projects where data goes through the complete journey:
 
 <div align="center">
-  <img src="data processing.jpg" width="80%" alt="Data">
+  <img src="data-science-ai.png"  alt="Data">
 </div>
 
 My main interests include:
